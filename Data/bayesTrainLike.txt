@@ -1,0 +1,5 @@
+Medium-danceability High-energy High-loudness Low-speechiness Low-acousticness Low-instrumentalness Low-liveness Medium-valence Allegro-tempo
+Medium-danceability Low-energy High-loudness Low-speechiness High-acousticness Low-instrumentalness Low-liveness Low-valence Adante-tempo
+Medium-danceability Low-energy High-loudness Low-speechiness High-acousticness Low-instrumentalness Low-liveness Medium-valence Adante-tempo
+Medium-danceability High-energy High-loudness Low-speechiness Low-acousticness High-instrumentalness Low-liveness Medium-valence Allegro-tempo
+Medium-danceability Medium-energy High-loudness Low-speechiness Medium-acousticness Low-instrumentalness Low-liveness Medium-valence Adante-tempo
